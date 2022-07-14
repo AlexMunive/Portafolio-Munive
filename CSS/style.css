@@ -531,13 +531,14 @@ padding-left: 0px;
   border: 2px solid #11101d;
   display: flex;
   margin: 10px;
-  
+  cursor: pointer;
 }
 
 .sportfolio_modify3{
 width: 320px;
 height: 250px;
 border: 2px solid #11101d;
+cursor: pointer;
 }
 
 /*--------------------------------------------------------------
@@ -581,6 +582,7 @@ border: 2px solid #11101d;
   height: 290px;
   border: 2px solid #11101d;
   margin: 10px;
+  cursor: pointer;
 }
 
 .blog_2{
@@ -588,7 +590,7 @@ border: 2px solid #11101d;
   height: 290px;
   border: 2px solid #11101d;
   margin: 10px;
-  
+  cursor: pointer;
 }
 
 .blog_3{
@@ -596,18 +598,21 @@ border: 2px solid #11101d;
   height: 290px;
   border: 2px solid #11101d;
   margin: 10px;
+  cursor: pointer;
 }
 .blog_4{
   width: 320px;
   height: 290px;
   border: 2px solid #11101d;
   margin: 10px;
+  cursor: pointer;
 }
 .blog_5{
   width: 320px;
   height: 290px;
   border: 2px solid #11101d;
   margin: 10px;
+  cursor: pointer;
 }
 
 .blog_6{
@@ -615,6 +620,7 @@ border: 2px solid #11101d;
   height: 290px;
   border: 2px solid #11101d;
   margin: 10px;
+  cursor: pointer;
 }
 
 /*--------------------------------------------------------------
